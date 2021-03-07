@@ -231,7 +231,6 @@ Git是一个版本管理控制系统（缩写VCS），它可以在任何时间�
 
 ### 3.7 ssh免登陆
 
-https协议仓库地址：https://github.com/itcast-frontEnd/git-demo.git
 
 
 
